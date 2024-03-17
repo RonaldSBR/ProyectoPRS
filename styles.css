@@ -30,7 +30,7 @@ img {
 }
 
 .fondo {
-  background-image: url(/IMG/messi_wl.jpg);
+  background-image: url(./IMG/messi_wl.jpg);
 
   background-repeat: no-repeat;
   background-size: cover;
